@@ -20,9 +20,9 @@ function App() {
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
-        </button>
+        </button>w
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
+         Rishi
         </p>
       </div>
       <p className="read-the-docs">
